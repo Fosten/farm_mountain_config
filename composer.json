@@ -1,0 +1,16 @@
+{
+  "name": "fosten/farm_mountain_config",
+  "description": "Module to help configure and administer farmOS mountain site",
+  "type": "drupal-module",
+  "authors": [
+      {
+          "name": "Brian Davis",
+          "email": "info@lillymountain.com"
+      }
+  ],
+  "require": {
+    "drupal/role_delegation": "^1.2",
+    "drupal/userprotect": "^1.2",
+    "farmos/farmos": "^3.0"
+  }
+}
