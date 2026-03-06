@@ -7,16 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## 1.1.0 2023-11-02
+- Update CHANGELOG.md [fosten]
 
-### Added
+## [1.0.0] (2023-11-20)
 
-- Add support for Drupal 10 and farmOS v3.
+- Update project_title in README.md [fosten]
+- Use postgres 15 for tests [fosten]
+- Add tests badge to README.md [fosten]
+- Add workflow_dispatch, change push params, remove pull_request [fosten]
+- Exclude composer.json from .gitignore [fosten]
 
-## 1.0.0 2023-03-17
+## [0.1.0] (2023-11-17)
 
-### Added
+- Initial commit [fosten]
 
-- Add basic farm_admin role.
-- Add role_delegation to allow farm_admin to delegate users other managed roles.
-- Add userprotect config to prevent modification of admin user 1.
+[Unreleased]: https://github.com/Fosten/farm_mountain_config/compare/1.0.0...main
+[1.0.0]: https://github.com/Fosten/farm_mountain_config/releases/tag/1.0.0
+[0.1.0]: https://github.com/Fosten/farm_mountain_config/releases/tag/0.1.0
+[fosten]: https://github.com/Fosten
