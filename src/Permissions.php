@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Drupal\farm_mountain_config;
 
 use Drupal\Core\DependencyInjection\ContainerInjectionInterface;

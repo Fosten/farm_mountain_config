@@ -4,3 +4,5 @@
  * @file
  * Primary module hooks for farmOS site config module.
  */
+
+declare(strict_types=1);

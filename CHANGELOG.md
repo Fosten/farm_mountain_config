@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Add PHP strict type checking [fosten]
+- Remove version from docker-compose.testing.yml [fosten]
 - Upgrade deprecated Docker Compose v1 [fosten]
 - Update CHANGELOG.md [fosten]
 
