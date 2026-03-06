@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Upgrade deprecated Docker Compose v1 [fosten]
 - Update CHANGELOG.md [fosten]
 
 ## [1.0.0] (2023-11-20)
