@@ -3,7 +3,7 @@ status: true
 dependencies:
   module:
     - farm_map
-    - farm_settings
+    - farm_setup
     - role_delegation
   enforced:
     module:

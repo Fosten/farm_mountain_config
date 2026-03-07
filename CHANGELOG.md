@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Replace obsolete farm_settings with farm_setup dependency [fosten]
 - Add support for Drupal 11 and farmOS v4 [fosten]
 - Remove changelog-enforcer [fosten]
 - Add dependabot [fosten]

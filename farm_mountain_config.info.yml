@@ -5,6 +5,6 @@ package: farmOS Contrib
 core_version_requirement: ^9 || ^10 || ^11
 dependencies:
   - farm_role
-  - farm_settings
+  - farm_setup
   - role_delegation:role_delegation
   - userprotect:userprotect
