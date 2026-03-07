@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Use postgres 17 for tests [fosten]
 - Add PHP strict type checking [fosten]
 - Remove version from docker-compose.testing.yml [fosten]
 - Upgrade deprecated Docker Compose v1 [fosten]
@@ -15,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] (2023-11-20)
 
 - Update project_title in README.md [fosten]
-- Use postgres 15 for tests [fosten]
+- Use postgres 13 for tests [fosten]
 - Add tests badge to README.md [fosten]
 - Add workflow_dispatch, change push params, remove pull_request [fosten]
 - Exclude composer.json from .gitignore [fosten]
