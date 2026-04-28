@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0] (2026-04-28)
+
+- Release 2.0.0 [fosten]
 - Replace obsolete farm_settings with farm_setup dependency [fosten]
 - Add support for Drupal 11 and farmOS v4 [fosten]
 - Remove changelog-enforcer [fosten]
@@ -30,7 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial commit [fosten]
 
-[Unreleased]: https://github.com/Fosten/farm_mountain_config/compare/1.0.0...main
+[Unreleased]: https://github.com/Fosten/farm_mountain_config/compare/2.0.0...main
+[2.0.0]: https://github.com/Fosten/farm_mountain_config/releases/tag/2.0.0
 [1.0.0]: https://github.com/Fosten/farm_mountain_config/releases/tag/1.0.0
 [0.1.0]: https://github.com/Fosten/farm_mountain_config/releases/tag/0.1.0
 [fosten]: https://github.com/Fosten
